@@ -7,10 +7,7 @@ How does it work?
 -----------------
 
 1. Install he requirements: ``pip install -r requirements.txt``
-2. Run ``./nicoletta.py auto -b``
-
-You will see a web browser window showing you your site.
-
-3. Edit your templates in ``templates/``, your posts in ``posts/`` and your config in ``conf``
+2. Run ``./nicoletta.py auto -b`` and you will see a web browser window showing you your site.  
+3. Edit your templates in ``templates/``, your posts in ``posts/`` or your configuration in ``conf``
 4. See the web browser refresh itself and be amazed
 5. Deploy ``output/`` somewhere and be done. 
