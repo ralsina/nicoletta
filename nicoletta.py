@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Stupidly minimalistic static site generator
 
 from ast import literal_eval
